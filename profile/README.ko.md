@@ -52,7 +52,7 @@ ai        Anthropic · OpenAI · LangChain · pgvector
 
 - 🪶 **[easy-paging-spring-boot-starter](https://github.com/devslab-kr/easy-paging-spring-boot-starter)** — 페이징, 쉽게
 - 🛡️ **[ssrf-guard](https://github.com/devslab-kr/ssrf-guard)** — Spring 기반 SSRF 차단
-- 📜 **[api-log](https://github.com/devslab-kr/api_log)** — 이벤트 드리븐 API 로깅 (PostgreSQL JSONB)
+- 📜 **[api-log](https://github.com/devslab-kr/api-log)** — 이벤트 드리븐 API 로깅 (PostgreSQL JSONB)
 
 ## `// partners`
 
