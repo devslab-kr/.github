@@ -53,7 +53,7 @@ Battle-tested in our own SaaS first, then shared.
 
 - 🪶 **[easy-paging-spring-boot-starter](https://github.com/devslab-kr/easy-paging-spring-boot-starter)** — Pagination, the easy way
 - 🛡️ **[ssrf-guard](https://github.com/devslab-kr/ssrf-guard)** — SSRF protection for Spring
-- 📜 **[api-log](https://github.com/devslab-kr/api-log)** — Opinionated API request/response logging
+- 📜 **[api-log](https://github.com/devslab-kr/api_log)** — Event-driven API logging with PostgreSQL JSONB storage
 
 ## `// partners`
 
