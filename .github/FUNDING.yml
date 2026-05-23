@@ -1,0 +1,7 @@
+# Org-level default funding info. Used by every devslab-kr repo that
+# doesn't override with its own .github/FUNDING.yml.
+#
+# We don't currently take individual sponsorships — the org is funded by
+# the consulting work behind devslab.kr. The "custom" link points there
+# so visitors who want to support the OSS work have a path: hire us.
+custom: ["https://devslab.kr"]

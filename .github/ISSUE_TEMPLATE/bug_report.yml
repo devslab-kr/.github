@@ -1,0 +1,81 @@
+name: Bug report
+description: Report unexpected behaviour in a devslab-kr library.
+title: "[Bug]: "
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to file a bug report.
+
+        **Stop here if this is a security issue** — do NOT use public issues for vulnerabilities. See [SECURITY.md](https://github.com/devslab-kr/.github/blob/main/.github/SECURITY.md) for the private disclosure channel.
+
+  - type: dropdown
+    id: library
+    attributes:
+      label: Library
+      description: Which devslab-kr library does the bug affect?
+      options:
+        - ssrf-guard
+        - easy-paging-spring-boot-starter
+        - easy-paging-spring-boot-starter-reactive
+        - api-log
+        - devslab-examples (a demo, not the library itself)
+        - Other / not sure
+    validations:
+      required: true
+
+  - type: input
+    id: library-version
+    attributes:
+      label: Library version
+      description: Exact Maven Central version (e.g. `3.1.0`).
+      placeholder: e.g. 3.1.0
+    validations:
+      required: true
+
+  - type: input
+    id: spring-boot-version
+    attributes:
+      label: Spring Boot version
+      description: From your `build.gradle.kts` / `pom.xml`. Leave blank if not applicable.
+      placeholder: e.g. 3.5.3
+
+  - type: input
+    id: java-version
+    attributes:
+      label: Java version
+      description: Output of `java -version`.
+      placeholder: e.g. Temurin 21.0.4
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected to happen
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: What actually happened
+      description: Include stack traces, log output, etc. Use triple backticks for code blocks.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Minimal reproduction
+      description: |
+        The single most helpful thing for triage. A self-contained snippet (preferred) or a public repo we can clone. If a `devslab-examples` demo reproduces it, name the demo.
+      placeholder: |
+        Code snippet, or `git clone <repo>` + `./gradlew bootRun` + which curl reproduces it.
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Anything else — workarounds you've tried, when the regression started, related issues, etc.

@@ -1,0 +1,52 @@
+name: Feature request
+description: Suggest a new capability or improvement.
+title: "[Feature]: "
+labels: ["enhancement", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the suggestion! If you're looking for help using an existing feature, please use [Discussions](https://github.com/devslab-kr/devslab-examples/discussions) instead — they're a better fit for Q&A.
+
+  - type: dropdown
+    id: library
+    attributes:
+      label: Library
+      description: Which library would gain this feature?
+      options:
+        - ssrf-guard
+        - easy-paging-spring-boot-starter
+        - easy-paging-spring-boot-starter-reactive
+        - api-log
+        - devslab-examples (a new demo)
+        - Other / cross-cutting
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What use case are you trying to solve? Why doesn't the current API or behaviour cover it?
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed solution
+      description: The API or behaviour you'd like to see. Pseudocode is welcome.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Other approaches you've thought about and why they're worse.
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Links to related issues, prior art in other libraries, etc.
