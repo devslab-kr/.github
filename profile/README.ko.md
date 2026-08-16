@@ -46,6 +46,12 @@ devops    Docker · Grafana · Prometheus · Sentry · Firebase
 ai        Anthropic · OpenAI · LangChain · pgvector
 ```
 
+## `// 우리가 만든 제품`
+
+우리가 직접 운영하는 SaaS — 아래 라이브러리들이 공유되기 전에 단련되는 곳입니다.
+
+- 💬 **[AskLinq](https://getasklinq.app)** — 같은 질문에 반복해서 답해야 하는 곳을 위한 QR 기반 AI 안내. 웹사이트·PDF·직접 입력한 자료를 등록해 두면, 방문자는 QR을 찍거나(또는 사이트에 심은 위젯을 열어) 자기 말로 묻습니다. 답변은 **등록된 자료에서만** 나오고, 자료에 없는 것은 지어내는 대신 없다고 말한 뒤 사람에게 연결합니다. 위젯은 13개 언어로 호스트 페이지의 언어와 테마를 따라가고, 구성원마다 자기 QR을 가진 페이지를 둘 수 있으며(명함용), 문의 알림은 이메일·Slack·Discord·Teams·텔레그램·라인으로 갑니다. 한국 시장 먼저, 현재 무료 베타로 운영 중입니다.
+
 ## `// open source`
 
 우리 SaaS에서 먼저 검증하고 커뮤니티와 공유합니다 — Spring Boot 라이브러리는 Maven Central(`kr.devslab`), TypeScript 패키지는 npm, 독립 실행 도구는 GitHub Releases로.

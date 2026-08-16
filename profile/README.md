@@ -47,6 +47,12 @@ devops    Docker · Grafana · Prometheus · Sentry · Firebase
 ai        Anthropic · OpenAI · LangChain · pgvector
 ```
 
+## `// our own products`
+
+The SaaS we run ourselves — where the libraries below get hardened before they are shared.
+
+- 💬 **[AskLinq](https://getasklinq.app)** — A QR-first AI assistant for the questions a business answers over and over. Point it at a website, a PDF or typed-in notes; visitors scan a code (or open a widget embedded on the site) and ask in their own words. Answers are **grounded in the registered material only** — when the material does not cover it, the assistant says so and hands the visitor to a human instead of inventing an answer. Widget chrome in 13 languages that follows the host page's language and theme; per-member pages with their own QR for business cards; lead alerts to email, Slack, Discord, Teams, Telegram and LINE. Korea first, live and in free beta.
+
 ## `// open source`
 
 Battle-tested in our own SaaS first, then shared with the community — Spring Boot libraries on Maven Central (`kr.devslab`), TypeScript packages on npm, standalone tools as GitHub Releases.
