@@ -49,9 +49,11 @@ ai        Anthropic · OpenAI · LangChain · pgvector
 
 ## `// our own products`
 
-The SaaS we run ourselves — where the libraries below get hardened before they are shared.
+The SaaS we run ourselves — where the libraries below get hardened before they are shared. One studio, two markets.
 
-- 💬 **[AskLinq](https://getasklinq.app)** — A QR-first AI assistant for the questions a business answers over and over. Point it at a website, a PDF or typed-in notes; visitors scan a code (or open a widget embedded on the site) and ask in their own words. Answers are **grounded in the registered material only** — when the material does not cover it, the assistant says so and hands the visitor to a human instead of inventing an answer. Widget chrome in 13 languages that follows the host page's language and theme; per-member pages with their own QR for business cards; lead alerts to email, Slack, Discord, Teams, Telegram and LINE. Korea first, live and in free beta.
+- 💬 **[AskLinq](https://getasklinq.app)** &nbsp;`Korea first, global next` · `free beta` — A QR-first AI assistant for the questions a business answers over and over. Point it at a website, a PDF or typed-in notes; visitors scan a code (or open a widget embedded on the site) and ask in their own words. Answers are **grounded in the registered material only** — when the material does not cover it, the assistant says so and hands the visitor to a human instead of inventing an answer. Widget chrome in 13 languages that follows the host page's language and theme; per-member pages with their own QR for business cards; lead alerts to email, Slack, Discord, Teams, Telegram and LINE.
+- 📅 **[BookLinq](https://getbooklinq.app)** &nbsp;`India first` · `launch pending` — Bookings over WhatsApp, without a website. It meets local businesses on the channel their customers already use: enquiries from WhatsApp, Instagram and Google become bookings, opening hours and services and per-staff availability live in one place, and confirmations and reminders go back out on the same channel.
+- ☎️ **Chatur-AI** &nbsp;`India first, then the Gulf & SEA` · `in preparation` — Voice AI for Indian call centres, built with a partner who runs financial call centres there. It takes and places the calls a person used to, with compliance and call quality designed in rather than bolted on, and per-market regulatory policy kept swappable.
 
 ## `// open source`
 
