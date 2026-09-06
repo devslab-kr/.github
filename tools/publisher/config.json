@@ -1,0 +1,12 @@
+{
+  "name": ".github",
+  "kind": "readme",
+  "url": "https://github.com/devslab-kr/.github",
+  "repository": "https://github.com/devslab-kr/.github",
+  "pages": [],
+  "readmes": [
+    "profile/README.md",
+    "profile/README.ko.md"
+  ],
+  "attributionLabel": "Published by"
+}
