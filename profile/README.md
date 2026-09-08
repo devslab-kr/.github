@@ -15,7 +15,7 @@ Published by [데브스랩(DevsLab)](https://devslab.kr/).
 
 ---
 
-**Explore DevsLab:** [Products and live demos](https://devslab-kr.github.io/) · [GitLinq for Windows](https://devslab-kr.github.io/gitlinq/) · [Public repositories](https://github.com/orgs/devslab-kr/repositories?type=public)
+**Explore DevsLab:** [Company and products](https://devslab.kr/) · [Open source and live demos](https://devslab-kr.github.io/) · [GitLinq for Windows](https://devslab.kr/products/gitlinq/) · [Public repositories](https://github.com/orgs/devslab-kr/repositories?type=public)
 
 ## `// who we are`
 
@@ -53,7 +53,7 @@ Business tools, developer software, and systems we build and operate. The status
 | Product | What it does | Availability |
 | --- | --- | --- |
 | **[AskLinq](https://getasklinq.app)** | QR and link-based AI assistance grounded in registered materials, with handoff to a person. | Free beta |
-| **[GitLinq](https://devslab-kr.github.io/gitlinq/)** | Windows Git client for SVN users: author-first logs, selective change cancellation, repository updates, and Git setup. | Preview · [Installer & portable ZIP](https://github.com/devslab-kr/gitlinq-releases/releases/latest) |
+| **[GitLinq](https://devslab.kr/products/gitlinq/)** | Windows Git client for SVN users: author-first logs, selective change cancellation, repository updates, and Git setup. | Preview · [Installer & portable ZIP](https://github.com/devslab-kr/gitlinq-releases/releases/latest) · [Beginner guide (Korean)](https://devslab.kr/products/gitlinq/docs/) |
 | **[TraceLinq](https://gettracelinq.app/)** | Local visibility, recovery, and replay for Claude Code and Codex work. | Early access |
 | **[BookLinq](https://getbooklinq.app/)** | WhatsApp-centered booking for local businesses, including availability and customer reminders. | Preparing for launch |
 | **[VisionLinq](https://getvisionlinq.app/)** | Document AI API that structures images, PDFs, and office documents into text and fields with source references. | Preparing for launch |

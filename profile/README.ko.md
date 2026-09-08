@@ -15,7 +15,7 @@ Published by [데브스랩(DevsLab)](https://devslab.kr/).
 
 ---
 
-**DevsLab 둘러보기:** [제품과 라이브 데모](https://devslab-kr.github.io/) · [Windows용 GitLinq](https://devslab-kr.github.io/gitlinq/) · [공개 저장소](https://github.com/orgs/devslab-kr/repositories?type=public)
+**DevsLab 둘러보기:** [회사와 제품](https://devslab.kr/) · [오픈소스와 라이브 데모](https://devslab-kr.github.io/) · [Windows용 GitLinq](https://devslab.kr/products/gitlinq/) · [공개 저장소](https://github.com/orgs/devslab-kr/repositories?type=public)
 
 ## `// who we are`
 
@@ -53,7 +53,7 @@ ai        Anthropic · OpenAI · LangChain · pgvector
 | 제품 | 하는 일 | 현재 상태 |
 | --- | --- | --- |
 | **[AskLinq](https://getasklinq.app)** | 등록 자료를 근거로 답하고 담당자에게 연결하는 QR·링크 기반 AI 안내 | 무료 베타 |
-| **[GitLinq](https://devslab-kr.github.io/gitlinq/)** | SVN 사용자용 Windows Git 클라이언트. 작성자 중심 로그, 선택한 변경 취소, 저장소 업데이트와 Git 준비 | 미리보기 · [설치본·무설치 ZIP](https://github.com/devslab-kr/gitlinq-releases/releases/latest) |
+| **[GitLinq](https://devslab.kr/products/gitlinq/)** | SVN 사용자용 Windows Git 클라이언트. 작성자 중심 로그, 선택한 변경 취소, 저장소 업데이트와 Git 준비 | 미리보기 · [설치본·무설치 ZIP](https://github.com/devslab-kr/gitlinq-releases/releases/latest) · [초보자 설명서](https://devslab.kr/products/gitlinq/docs/) |
 | **[TraceLinq](https://gettracelinq.app/)** | Claude Code·Codex 작업의 실시간 흐름, 중단 작업 복구와 이력 재생을 보여주는 로컬 도구 | 얼리 액세스 |
 | **[BookLinq](https://getbooklinq.app/)** | 매장의 예약 가능 시간과 고객 알림을 연결하는 WhatsApp 중심 예약 서비스 | 출시 준비 |
 | **[VisionLinq](https://getvisionlinq.app/)** | 이미지·PDF·오피스 문서를 텍스트·필드·원문 근거로 구조화하는 문서 AI API | 출시 준비 |
