@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="DevsLab — 당신의 SaaS, 우리가 만듭니다." />
+  <img src="https://raw.githubusercontent.com/devslab-kr/.github/main/profile/assets/banner.png" alt="DevsLab — 당신의 SaaS, 우리가 만듭니다." />
 </div>
 
 <p align="center">
   <a href="https://devslab.kr">🌐 devslab.kr</a> ·
+  <a href="https://devslab-kr.github.io/">제품·데모·문서</a> ·
   <a href="mailto:support@devslab.kr?subject=DevsLab%20프로젝트%20문의">📬 support@devslab.kr</a> ·
-  <a href="./README.md">🇺🇸 English</a>
+  <a href="https://github.com/devslab-kr/.github/blob/main/profile/README.md">🇺🇸 English</a>
 </p>
 
 <!-- publisher:start -->
@@ -14,19 +15,12 @@ Published by [데브스랩(DevsLab)](https://devslab.kr/).
 
 ---
 
-```bash
-$ npx create-saas @devslab/starter
-→ 멀티테넌트 아키텍처 셋업...
-→ 인증·결제·권한 구성...
-→ 관측성 스택 연결...
-→ AI 통합 레이어 준비...
-✓ 견고한 SaaS 기반 완성
-```
+**DevsLab 둘러보기:** [제품과 라이브 데모](https://devslab-kr.github.io/) · [Windows용 GitLinq](https://devslab-kr.github.io/gitlinq/) · [공개 저장소](https://github.com/orgs/devslab-kr/repositories?type=public)
 
 ## `// who we are`
 
-한국 기반의 작은 스튜디오. **아키텍처, 풀스택 · 모바일, AI 통합**을 한 팀에서.
-유행 따라 흔들리지 않습니다. 운영 환경에서 증명된 것만 사용합니다.
+한국 기반의 개발 스튜디오로 SaaS 제품, 데스크톱 앱, 오픈소스 개발 도구를 만듭니다.
+**아키텍처, 풀스택 · 모바일, AI 통합**을 한 팀에서 제공합니다.
 
 MVP부터 엔터프라이즈까지, 첫 사용자를 만날 때까지 함께합니다.
 
@@ -38,12 +32,14 @@ MVP부터 엔터프라이즈까지, 첫 사용자를 만날 때까지 함께합�
 | `[03]` | **AI 통합** — LLM · RAG · 에이전트 워크플로우 |
 | `[04]` | **하이브리드 + 네이티브 모바일** — Ionic + Vue · Flutter · Jetpack Compose |
 | `[05]` | **오픈소스 인프라** — 우리 SaaS에서 먼저 쓰고 커뮤니티와 공유 |
+| `[06]` | **데스크톱 앱** — 개발자의 일상 작업을 돕는 Windows 도구 |
 
 ## `// stack we trust`
 
 ```
 frontend  Next.js · React · Vue · HTMX · TypeScript · Tailwind
 mobile    Ionic · Flutter · Capacitor · Kotlin · Jetpack Compose
+desktop   Go · Wails · React
 backend   Node.js · Spring Boot · tRPC · Postgres · Redis · Drizzle
 cloud     AWS · Vercel · Cloudflare · CloudType · Supabase
 devops    Docker · Grafana · Prometheus · Sentry · Firebase
@@ -52,11 +48,25 @@ ai        Anthropic · OpenAI · LangChain · pgvector
 
 ## `// 우리가 만든 제품`
 
-우리가 직접 운영하는 SaaS — 아래 라이브러리들이 공유되기 전에 단련되는 곳입니다.
+업무 도구와 개발자용 소프트웨어, 고객사를 위해 만들고 운영하는 시스템입니다. 각 제품의 공개 소개에 맞춰 현재 제공 상태를 표시합니다.
 
-- 💬 **[AskLinq](https://getasklinq.app)** — 같은 질문에 반복해서 답해야 하는 곳을 위한 QR 기반 AI 안내. 웹사이트·PDF·직접 입력한 자료를 등록해 두면, 방문자는 QR을 찍거나(또는 사이트에 심은 위젯을 열어) 자기 말로 묻습니다. 답변은 **등록된 자료에서만** 나오고, 자료에 없는 것은 지어내는 대신 없다고 말한 뒤 사람에게 연결합니다. 위젯은 13개 언어로 호스트 페이지의 언어와 테마를 따라가고, 구성원마다 자기 QR을 가진 페이지를 둘 수 있으며(명함용), 문의 알림은 이메일·Slack·Discord·Teams·텔레그램·라인으로 갑니다. 한국 시장 먼저, 현재 무료 베타로 운영 중입니다.
+| 제품 | 하는 일 | 현재 상태 |
+| --- | --- | --- |
+| **[AskLinq](https://getasklinq.app)** | 등록 자료를 근거로 답하고 담당자에게 연결하는 QR·링크 기반 AI 안내 | 무료 베타 |
+| **[GitLinq](https://devslab-kr.github.io/gitlinq/)** | SVN 사용자용 Windows Git 클라이언트. 작성자 중심 로그, 선택한 변경 취소, 저장소 업데이트와 Git 준비 | 미리보기 · [설치본·무설치 ZIP](https://github.com/devslab-kr/gitlinq-releases/releases/latest) |
+| **[TraceLinq](https://gettracelinq.app/)** | Claude Code·Codex 작업의 실시간 흐름, 중단 작업 복구와 이력 재생을 보여주는 로컬 도구 | 얼리 액세스 |
+| **[BookLinq](https://getbooklinq.app/)** | 매장의 예약 가능 시간과 고객 알림을 연결하는 WhatsApp 중심 예약 서비스 | 출시 준비 |
+| **[VisionLinq](https://getvisionlinq.app/)** | 이미지·PDF·오피스 문서를 텍스트·필드·원문 근거로 구조화하는 문서 AI API | 출시 준비 |
+| **Chatur-AI** | 현지 운영 파트너와 개발하는 인도 콜센터용 음성 AI | 개발 중 |
+| **EDS Logistics** | 치과기공물의 수거 요청·배차·기사 동선·정산을 처리하는 고객사 물류 시스템 | 운영 중 |
+
+GitLinq 앱 소스는 비공개이며 [다운로드·릴리스 안내·문의](https://github.com/devslab-kr/gitlinq-releases)는 공개합니다. 일상 서버 커밋과 직접 충돌 편집은 개발 중입니다.
+
+[제품과 고객사 프로젝트 소개](https://devslab.kr/)에서 더 알아볼 수 있습니다.
 
 ## `// open source`
+
+라이브러리와 도구의 [라이브 데모·문서 모음](https://devslab-kr.github.io/)을 제공합니다.
 
 우리 SaaS에서 먼저 검증하고 커뮤니티와 공유합니다 — Spring Boot 라이브러리는 Maven Central(`kr.devslab`), TypeScript 패키지는 npm, 독립 실행 도구는 GitHub Releases로.
 
@@ -71,23 +81,26 @@ ai        Anthropic · OpenAI · LangChain · pgvector
 - 📅 **[vue-date-rail](https://github.com/devslab-kr/vue-date-rail)** &nbsp;[![npm](https://img.shields.io/npm/v/%40devslab%2Fvue-date-rail)](https://www.npmjs.com/package/@devslab/vue-date-rail) — Vue 3용 가로 **무한 스크롤 날짜 레일**(일/월 스트립) 피커 — 배송·예약·스케줄 앱이 달력 팝업 대신 쓰는 캘린더 스트립 패턴. 과거 날짜가 앞에 붙어도 화면이 튀지 않는 스크롤 위치 보정, headless `useDateRail()` 코어, `Intl` 기반 i18n(BCP 47 로케일이면 무엇이든, 로케일 파일 없음), min/max·비활성 날짜, 이벤트 dot용 마커 슬롯, 데스크톱 휠/드래그 스크롤, CSS 변수 테마, 그리고 Tailwind 대응 `unstyled` + `data-*` 상태 속성까지. 치과기공 물류 모바일 앱에서 실전 검증 후 추출했습니다. 라이브 데모: [devslab-kr.github.io/vue-date-rail](https://devslab-kr.github.io/vue-date-rail/).
 - 📏 **[editor-ruler](https://github.com/devslab-kr/editor-ruler)** &nbsp;[![npm](https://img.shields.io/npm/v/%40devslab%2Feditor-ruler)](https://www.npmjs.com/package/@devslab/editor-ruler) — 웹 리치텍스트 에디터를 위한 **Word 스타일 가로 줄자** — Froala · TinyMCE · CKEditor 5 · Quill 등 범용 WYSIWYG 어디에도 없는 그 컨트롤: 좌/우 여백 + 첫 줄 들여쓰기 드래그 핸들(내어쓰기 포함), 런타임 전환 가능한 cm/in/px 눈금, 제스처당 undo 경계 1회, 키보드 접근 가능한 ARIA 슬라이더 핸들, CSS 변수 테마. **1.0부터 API 안정.** 스냅 되는 가이드선·세로 줄자(자리를 미리 예약해 토글해도 본문이 밀리지 않음)·브라우저 언어 추종 UI(ko/en)는 전 어댑터 공통이고, Word식 테이블 통째 밀기와 컬럼 폭 마커는 직접-DOM 어댑터에 들어 있습니다. 에디터 불문 의존성 0 코어(`@devslab/editor-ruler`) + 에디터별 어댑터 4종 — **`-froala`**·**`-summernote`**(직접-DOM 플러그인, 둘 다 테이블 지원), **`-tiptap`**(v2/v3 확장), **`-ckeditor5`**(모델 속성 플러그인) — 모두 드래그 = undo 1스텝. CDN 스크립트 태그로 바로 사용(`EditorRuler` 전역). 라이브 플레이그라운드: [devslab-kr.github.io/editor-ruler](https://devslab-kr.github.io/editor-ruler/).
 - 🌐 **[locale-match](https://github.com/devslab-kr/locale-match)** &nbsp;[![npm](https://img.shields.io/npm/v/%40devslab%2Flocale-match)](https://www.npmjs.com/package/@devslab/locale-match) — **간체 중국어 독자에게 번체 텍스트를 건네지 않는 로케일 협상 라이브러리.** 맨 `zh`는 정작 가장 중요한 것에 침묵하고, 본토 브라우저는 `zh-CN,zh;q=0.9`를 보내기 때문에 — 정확한 태그를 거부하면 바로 뒤의 모호한 태그가 그 매칭을 구제해 버립니다. 두 함정 모두 테스트로 못박혀 있습니다. **스크립트 가드**가 하나의 기본 언어에 대해 태그를 supported / unsupported / *unspecified* 로 분류하고, 두 층 규칙으로 적용합니다 — 선언된 단일 값(`?lang=`·쿠키)은 문자를 밝히지 않아도 되지만, 순위 목록 안의 항목은 밝혀야 합니다. 중국어는 내장이고 당신의 `supported` 목록에서 자동 설치되며, 다른 문자 분리 언어(세르비아어·몽골어·펀자브어·쿠르드어·우즈베크어)는 `defineScriptGuard`로 몇 줄이면 됩니다. 매처는 엄격한 RFC 4647이 거부하는 옆걸음도 하므로 `pt-PT`가 영어로 떨어지지 않고 `pt-BR`에 도달합니다. 의존성 0, ESM + CJS + CDN용 IIFE 빌드, 그리고 **React**(하이드레이션 안전) · **Vue 3** · **Nuxt**(SSR에서 확정해 페이지가 그려진 뒤 언어가 바뀌지 않음) 바인딩 포함. 라이브 플레이그라운드: [devslab-kr.github.io/locale-match](https://devslab-kr.github.io/locale-match/).
-- 🧪 **[devslab-examples](https://github.com/devslab-kr/devslab-examples)** — 위 라이브러리 모든 모듈의 실행 가능한 Spring Boot 데모 19개 (easy-paging SB4 4개 + easy-paging SB3 maintenance 4개 + ssrf-guard 8개 — HTTP 클라이언트, LLM 프레임워크, GraalVM 네이티브 이미지 전반 + api-log 영속 백엔드 3개 — JPA / R2DBC / MyBatis), 이중언어 README. Clone, `./gradlew bootRun`, curl. 스모크 테스트 포함.
+- 🧪 **[devslab-examples](https://github.com/devslab-kr/devslab-examples)** — easy-paging·ssrf-guard·api-log용 실행 가능한 Spring Boot 데모 19개 (easy-paging SB4 4개 + easy-paging SB3 maintenance 4개 + ssrf-guard 8개 — HTTP 클라이언트, LLM 프레임워크, GraalVM 네이티브 이미지 전반 + api-log 영속 백엔드 3개 — JPA / R2DBC / MyBatis), 이중언어 README. Clone, `./gradlew bootRun`, curl. 스모크 테스트 포함.
 
-```
-$ ./talk-to-the-maintainers
-```
+- 🖥️ **[devslab-kit-admin-ui](https://github.com/devslab-kr/devslab-kit-admin-ui)** — devslab-kit의 관리자 REST API에 연결하는 Vue 3 + PrimeVue 관리자 콘솔입니다.
 
 질문, 아이디어, 사용 사례 공유는 [**devslab-examples Discussions**](https://github.com/devslab-kr/devslab-examples/discussions)에서 — 라이브러리 만든 메인테이너가 직접 답변. 영/한 둘 다 환영.
+
+## `// 디자인 시스템과 브랜드 자료`
+
+| 자료 | 용도 |
+| --- | --- |
+| **[DDS](https://github.com/devslab-kr/dds)** | DevsLab 제품의 공통 디자인 토큰, CSS, 아이콘과 SolidJS 프리미티브. [DevsLab Source-Available License](https://github.com/devslab-kr/dds/blob/main/LICENSE)로 소스를 공개합니다. |
+| **[@devslab/site-kit](https://github.com/devslab-kr/dds/tree/main/packages/site-kit)** | 제품 사이트의 다국어, SEO 메타데이터, 게시자 표기와 공통 UI를 제공하는 DDS 패키지. DDS와 같은 라이선스를 적용합니다. |
+| **[linq-brand](https://github.com/devslab-kr/linq-brand)** | Linq 제품의 공식 목록, 브랜드 자산과 사용 지침 |
+| **[oss-brand](https://github.com/devslab-kr/oss-brand)** | DevsLab 오픈소스 프로젝트의 브랜드 자산과 사용 지침 |
 
 ## `// partners`
 
 - **[XunyaTech](https://xunya.tech)** — 성장하는 기업을 위한 사이버보안 우선 관리형 IT
 
 ## `// say hi`
-
-```bash
-$ ./contact --send
-```
 
 - 📬 [support@devslab.kr](mailto:support@devslab.kr?subject=DevsLab%20프로젝트%20문의)
 - 🌐 [devslab.kr](https://devslab.kr) — 14개 언어 지원
