@@ -32,21 +32,21 @@ MVP to enterprise, we own every stage all the way to your first users.
 | `[03]` | **AI Integration** — LLM orchestration · RAG pipelines · Agentic workflows |
 | `[04]` | **Hybrid + Native Mobile** — Ionic + Vue · Flutter · Jetpack Compose |
 | `[05]` | **Open-Source Infra** — Production-proven tools, shared with the community |
-| `[06]` | **Desktop Applications** — Windows tools for everyday developer workflows |
+| `[06]` | **Desktop Applications** — Windows tools for developer and operations workflows |
 
 ## `// stack we trust`
 
 ```
 frontend  Next.js · React · Vue · HTMX · TypeScript · Tailwind
 mobile    Ionic · Flutter · Capacitor · Kotlin · Jetpack Compose
-desktop   Go · Wails · React
+desktop   Electron · Go · Wails · React
 backend   Node.js · Spring Boot · tRPC · Postgres · Redis · Drizzle
 cloud     AWS · Vercel · Cloudflare · CloudType · Supabase
 devops    Docker · Grafana · Prometheus · Sentry · Firebase
 ai        Anthropic · OpenAI · LangChain · pgvector
 ```
 
-## `// our own products`
+## `// products & client work`
 
 Business tools, developer software, and systems we build and operate. The status below follows each product's public introduction.
 
@@ -59,8 +59,11 @@ Business tools, developer software, and systems we build and operate. The status
 | **[VisionLinq](https://getvisionlinq.app/)** | Document AI API that structures images, PDFs, and office documents into text and fields with source references. | Preparing for launch |
 | **Chatur-AI** | Voice AI for Indian call centers, developed with an operating partner. | In development |
 | **EDS Logistics** | A client system for dental-logistics pickup, dispatch, driver routes, and settlement. | In operation |
+| **[EDS Desktop](https://github.com/jlc488/eds-desktop-releases)** | Windows emergency scan console for pickup and delivery operations. | [Installer & portable EXE](https://github.com/jlc488/eds-desktop-releases/releases/latest) |
 
 GitLinq application source is private; [downloads, release notes, and issues](https://github.com/devslab-kr/gitlinq-releases) are public. Daily server commits and direct conflict editing are still in development.
+
+EDS Desktop is distributed through a public release repository while its application source remains private. The installer supports automatic updates; the portable EXE does not.
 
 [More about our products and client work](https://devslab.kr/).
 

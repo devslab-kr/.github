@@ -32,21 +32,21 @@ MVP부터 엔터프라이즈까지, 첫 사용자를 만날 때까지 함께합�
 | `[03]` | **AI 통합** — LLM · RAG · 에이전트 워크플로우 |
 | `[04]` | **하이브리드 + 네이티브 모바일** — Ionic + Vue · Flutter · Jetpack Compose |
 | `[05]` | **오픈소스 인프라** — 우리 SaaS에서 먼저 쓰고 커뮤니티와 공유 |
-| `[06]` | **데스크톱 앱** — 개발자의 일상 작업을 돕는 Windows 도구 |
+| `[06]` | **데스크톱 앱** — 개발과 현장 운영 업무를 돕는 Windows 도구 |
 
 ## `// stack we trust`
 
 ```
 frontend  Next.js · React · Vue · HTMX · TypeScript · Tailwind
 mobile    Ionic · Flutter · Capacitor · Kotlin · Jetpack Compose
-desktop   Go · Wails · React
+desktop   Electron · Go · Wails · React
 backend   Node.js · Spring Boot · tRPC · Postgres · Redis · Drizzle
 cloud     AWS · Vercel · Cloudflare · CloudType · Supabase
 devops    Docker · Grafana · Prometheus · Sentry · Firebase
 ai        Anthropic · OpenAI · LangChain · pgvector
 ```
 
-## `// 우리가 만든 제품`
+## `// 제품과 고객사 프로젝트`
 
 업무 도구와 개발자용 소프트웨어, 고객사를 위해 만들고 운영하는 시스템입니다. 각 제품의 공개 소개에 맞춰 현재 제공 상태를 표시합니다.
 
@@ -59,8 +59,11 @@ ai        Anthropic · OpenAI · LangChain · pgvector
 | **[VisionLinq](https://getvisionlinq.app/)** | 이미지·PDF·오피스 문서를 텍스트·필드·원문 근거로 구조화하는 문서 AI API | 출시 준비 |
 | **Chatur-AI** | 현지 운영 파트너와 개발하는 인도 콜센터용 음성 AI | 개발 중 |
 | **EDS Logistics** | 치과기공물의 수거 요청·배차·기사 동선·정산을 처리하는 고객사 물류 시스템 | 운영 중 |
+| **[EDS Desktop](https://github.com/jlc488/eds-desktop-releases)** | 수거·배송 비상 스캔을 위한 Windows 데스크톱 앱 | [설치본·무설치 EXE](https://github.com/jlc488/eds-desktop-releases/releases/latest) |
 
 GitLinq 앱 소스는 비공개이며 [다운로드·릴리스 안내·문의](https://github.com/devslab-kr/gitlinq-releases)는 공개합니다. 일상 서버 커밋과 직접 충돌 편집은 개발 중입니다.
+
+EDS Desktop도 앱 소스는 비공개로 관리하고 배포 파일은 공개합니다. 설치본은 자동 업데이트를 지원하며, 무설치 EXE는 자동 업데이트를 지원하지 않습니다.
 
 [제품과 고객사 프로젝트 소개](https://devslab.kr/)에서 더 알아볼 수 있습니다.
 
