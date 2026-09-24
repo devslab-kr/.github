@@ -26,9 +26,9 @@ MVP부터 엔터프라이즈까지, 첫 사용자를 만날 때까지 함께합�
 
 ## `// what we ship`
 
-| `[01]` | **확장 가능한 설계** — 멀티테넌시 · 인증 · 결제 · 관측성 |
+| `[01]` | **확장 가능한 설계** — 멀티테넌시 · 인증 · 결제 · 관측성 · AIOps |
 |--------|------------------------------------------------------------|
-| `[02]` | **엔드투엔드 개발** — Next.js · Vue · Node · Spring Boot · Cloud Native |
+| `[02]` | **엔드투엔드 개발** — Spring Boot · Spring Cloud · Node · TanStack Start · SolidJS · Next.js · Cloud Native |
 | `[03]` | **AI 통합** — LLM · RAG · 에이전트 워크플로우 |
 | `[04]` | **하이브리드 + 네이티브 모바일** — Ionic + Vue · Flutter · Jetpack Compose |
 | `[05]` | **오픈소스 인프라** — 우리 SaaS에서 먼저 쓰고 커뮤니티와 공유 |
@@ -37,13 +37,14 @@ MVP부터 엔터프라이즈까지, 첫 사용자를 만날 때까지 함께합�
 ## `// stack we trust`
 
 ```
-frontend  Next.js · React · Vue · HTMX · TypeScript · Tailwind
+frontend  TanStack Start · SolidJS · React · Next.js · Vue · HTMX · TypeScript · WASM · Tailwind
 mobile    Ionic · Flutter · Capacitor · Kotlin · Jetpack Compose
 desktop   Electron · Go · Wails · React
-backend   Node.js · Spring Boot · tRPC · Postgres · Redis · Drizzle
-cloud     AWS · Vercel · Cloudflare · CloudType · Supabase
-devops    Docker · Grafana · Prometheus · Sentry · Firebase
-ai        Anthropic · OpenAI · LangChain · pgvector
+backend   Spring Boot · Spring Cloud · Spring Security · Node.js · tRPC · Postgres · Redis · Drizzle
+cloud     AWS · Cloudflare · Vercel · CloudType · Supabase · Firebase
+devops    Docker · GitHub Actions · Grafana · Prometheus · Sentry · PostHog
+ai        Claude · GPT · Llama · Mistral · Qwen · Gemma · Spring AI · LangChain · pgvector
+ai eng    RAG · MCP · Agent Runtime · Evals · Fine-Tuning · LoRA · Distillation
 ```
 
 ## `// 제품과 고객사 프로젝트`
@@ -60,6 +61,7 @@ ai        Anthropic · OpenAI · LangChain · pgvector
 | **Chatur-AI** | 현지 운영 파트너와 개발하는 인도 콜센터용 음성 AI | 개발 중 |
 | **EDS Logistics** | 치과기공물의 수거 요청·배차·기사 동선·정산을 처리하는 고객사 물류 시스템 | 운영 중 |
 | **[EDS Desktop](https://github.com/jlc488/eds-desktop-releases)** | 수거·배송 비상 스캔을 위한 Windows 데스크톱 앱 | [설치본·무설치 EXE](https://github.com/jlc488/eds-desktop-releases/releases/latest) |
+| **FM덴탈 서비스** | 부산 지역 기반으로 치과기공물을 당일 수거·배송하는 고객사 물류 시스템 | 운영 중 |
 
 GitLinq 앱 소스는 비공개이며 [다운로드·릴리스 안내·문의](https://github.com/devslab-kr/gitlinq-releases)는 공개합니다. 일상 서버 커밋과 직접 충돌 편집은 개발 중입니다.
 
@@ -102,6 +104,8 @@ EDS Desktop도 앱 소스는 비공개로 관리하고 배포 파일은 공개�
 ## `// partners`
 
 - **[XunyaTech](https://xunya.tech)** — 성장하는 기업을 위한 사이버보안 우선 관리형 IT
+- **[EDS Logistics](https://www.eds8282.com)** — 기공소와 치과를 잇는 치과기공물 당일 배송 물류
+- **[FM덴탈 서비스](https://www.fmdental2824.com)** — 부산 지역 기반 치과기공물 당일 수거·배송 물류
 
 ## `// say hi`
 

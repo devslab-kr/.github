@@ -26,9 +26,9 @@ MVP to enterprise, we own every stage all the way to your first users.
 
 ## `// what we ship`
 
-| `[01]` | **Scalable Architecture** — Multi-tenant · Auth & Billing · Observability |
+| `[01]` | **Scalable Architecture** — Multi-tenant · Auth & Billing · Observability · AIOps |
 |--------|----------------------------------------------------------------------------|
-| `[02]` | **Full-Stack Development** — Next.js · Vue · Node · Spring Boot · Cloud Native |
+| `[02]` | **Full-Stack Development** — Spring Boot · Spring Cloud · Node · TanStack Start · SolidJS · Next.js · Cloud Native |
 | `[03]` | **AI Integration** — LLM orchestration · RAG pipelines · Agentic workflows |
 | `[04]` | **Hybrid + Native Mobile** — Ionic + Vue · Flutter · Jetpack Compose |
 | `[05]` | **Open-Source Infra** — Production-proven tools, shared with the community |
@@ -37,13 +37,14 @@ MVP to enterprise, we own every stage all the way to your first users.
 ## `// stack we trust`
 
 ```
-frontend  Next.js · React · Vue · HTMX · TypeScript · Tailwind
+frontend  TanStack Start · SolidJS · React · Next.js · Vue · HTMX · TypeScript · WASM · Tailwind
 mobile    Ionic · Flutter · Capacitor · Kotlin · Jetpack Compose
 desktop   Electron · Go · Wails · React
-backend   Node.js · Spring Boot · tRPC · Postgres · Redis · Drizzle
-cloud     AWS · Vercel · Cloudflare · CloudType · Supabase
-devops    Docker · Grafana · Prometheus · Sentry · Firebase
-ai        Anthropic · OpenAI · LangChain · pgvector
+backend   Spring Boot · Spring Cloud · Spring Security · Node.js · tRPC · Postgres · Redis · Drizzle
+cloud     AWS · Cloudflare · Vercel · CloudType · Supabase · Firebase
+devops    Docker · GitHub Actions · Grafana · Prometheus · Sentry · PostHog
+ai        Claude · GPT · Llama · Mistral · Qwen · Gemma · Spring AI · LangChain · pgvector
+ai eng    RAG · MCP · Agent Runtime · Evals · Fine-Tuning · LoRA · Distillation
 ```
 
 ## `// products & client work`
@@ -60,6 +61,7 @@ Business tools, developer software, and systems we build and operate. The status
 | **Chatur-AI** | Voice AI for Indian call centers, developed with an operating partner. | In development |
 | **EDS Logistics** | A client system for dental-logistics pickup, dispatch, driver routes, and settlement. | In operation |
 | **[EDS Desktop](https://github.com/jlc488/eds-desktop-releases)** | Windows emergency scan console for pickup and delivery operations. | [Installer & portable EXE](https://github.com/jlc488/eds-desktop-releases/releases/latest) |
+| **FM Dental Service** | A client system for Busan-area same-day dental-prosthetics pickup and delivery. | In operation |
 
 GitLinq application source is private; [downloads, release notes, and issues](https://github.com/devslab-kr/gitlinq-releases) are public. Daily server commits and direct conflict editing are still in development.
 
@@ -102,6 +104,8 @@ Questions, ideas, sharing your application? Bilingual community in [**devslab-ex
 ## `// partners`
 
 - **[XunyaTech](https://xunya.tech)** — Cybersecurity-first managed IT for growing businesses
+- **[EDS Logistics](https://www.eds8282.com)** — Same-day dental prosthetics logistics connecting labs and clinics
+- **[FM Dental Service](https://www.fmdental2824.com)** — Busan-area same-day dental prosthetics pickup and delivery
 
 ## `// say hi`
 
