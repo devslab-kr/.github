@@ -59,6 +59,7 @@ ai eng    RAG · MCP · Agent Runtime · Evals · Fine-Tuning · LoRA · Distill
 | **[BookLinq](https://getbooklinq.app/)** | 매장의 예약 가능 시간과 고객 알림을 연결하는 WhatsApp 중심 예약 서비스 | 출시 준비 |
 | **[VisionLinq](https://getvisionlinq.app/)** | 이미지·PDF·오피스 문서를 텍스트·필드·원문 근거로 구조화하는 문서 AI API | 출시 준비 |
 | **Chatur-AI** | 현지 운영 파트너와 개발하는 인도 콜센터용 음성 AI | 개발 중 |
+| **SphereLinq** | 팀과 전사의 지식을 연결하고 공통 규칙과 하네스를 여러 AI 에이전트에 적용하는 전사 Agentic OS | 설계 중 |
 | **EDS Logistics** | 치과기공물의 수거 요청·배차·기사 동선·정산을 처리하는 고객사 물류 시스템 | 운영 중 |
 | **[EDS Desktop](https://github.com/jlc488/eds-desktop-releases)** | 수거·배송 비상 스캔을 위한 Windows 데스크톱 앱 | [설치본·무설치 EXE](https://github.com/jlc488/eds-desktop-releases/releases/latest) |
 | **FM덴탈 서비스** | 부산 지역 기반으로 치과기공물을 당일 수거·배송하는 고객사 물류 시스템 | 운영 중 |

@@ -59,6 +59,7 @@ Business tools, developer software, and systems we build and operate. The status
 | **[BookLinq](https://getbooklinq.app/)** | WhatsApp-centered booking for local businesses, including availability and customer reminders. | Preparing for launch |
 | **[VisionLinq](https://getvisionlinq.app/)** | Document AI API that structures images, PDFs, and office documents into text and fields with source references. | Preparing for launch |
 | **Chatur-AI** | Voice AI for Indian call centers, developed with an operating partner. | In development |
+| **SphereLinq** | A company-wide Agentic OS that connects team and company knowledge and applies shared rules and harnesses across AI agents. | In design |
 | **EDS Logistics** | A client system for dental-logistics pickup, dispatch, driver routes, and settlement. | In operation |
 | **[EDS Desktop](https://github.com/jlc488/eds-desktop-releases)** | Windows emergency scan console for pickup and delivery operations. | [Installer & portable EXE](https://github.com/jlc488/eds-desktop-releases/releases/latest) |
 | **FM Dental Service** | A client system for Busan-area same-day dental-prosthetics pickup and delivery. | In operation |
