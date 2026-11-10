@@ -98,6 +98,7 @@ Questions, ideas, sharing your application? Bilingual community in [**devslab-ex
 | Resource | Purpose |
 | --- | --- |
 | **[DDS](https://github.com/devslab-kr/dds)** | Shared design tokens, CSS, icons, and SolidJS primitives for DevsLab products. Source-available under the [DevsLab Source-Available License](https://github.com/devslab-kr/dds/blob/main/LICENSE). |
+| **[DDS for Android](https://github.com/devslab-kr/dds/tree/main/android)** &nbsp;[![Maven Central](https://img.shields.io/maven-central/v/kr.devslab/dds-compose)](https://central.sonatype.com/artifact/kr.devslab/dds-compose) | The same tokens and rules for native Android: `kr.devslab:dds-android-tokens` (values generated from the web tokens) and `kr.devslab:dds-compose` (Material3 theme, brand override, motion, components, icons for Jetpack Compose). Part of DDS under the same license. |
 | **[@devslab/site-kit](https://github.com/devslab-kr/dds/tree/main/packages/site-kit)** | Product-site infrastructure for localization, SEO metadata, publisher attribution, and shared UI. Part of DDS under the same license. |
 | **[linq-brand](https://github.com/devslab-kr/linq-brand)** | Official Linq product registry, brand assets, and usage guidelines. |
 | **[oss-brand](https://github.com/devslab-kr/oss-brand)** | Brand assets and guidelines for DevsLab open-source projects. |

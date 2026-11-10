@@ -98,6 +98,7 @@ EDS Desktop도 앱 소스는 비공개로 관리하고 배포 파일은 공개�
 | 자료 | 용도 |
 | --- | --- |
 | **[DDS](https://github.com/devslab-kr/dds)** | DevsLab 제품의 공통 디자인 토큰, CSS, 아이콘과 SolidJS 프리미티브. [DevsLab Source-Available License](https://github.com/devslab-kr/dds/blob/main/LICENSE)로 소스를 공개합니다. |
+| **[DDS 안드로이드](https://github.com/devslab-kr/dds/tree/main/android)** &nbsp;[![Maven Central](https://img.shields.io/maven-central/v/kr.devslab/dds-compose)](https://central.sonatype.com/artifact/kr.devslab/dds-compose) | 네이티브 안드로이드에서 같은 토큰과 규칙을 씁니다. `kr.devslab:dds-android-tokens`(웹 토큰에서 생성한 값)와 `kr.devslab:dds-compose`(Jetpack Compose용 Material3 테마, 브랜드 덮어쓰기, 모션, 부품, 아이콘). DDS와 같은 라이선스를 적용합니다. |
 | **[@devslab/site-kit](https://github.com/devslab-kr/dds/tree/main/packages/site-kit)** | 제품 사이트의 다국어, SEO 메타데이터, 게시자 표기와 공통 UI를 제공하는 DDS 패키지. DDS와 같은 라이선스를 적용합니다. |
 | **[linq-brand](https://github.com/devslab-kr/linq-brand)** | Linq 제품의 공식 목록, 브랜드 자산과 사용 지침 |
 | **[oss-brand](https://github.com/devslab-kr/oss-brand)** | DevsLab 오픈소스 프로젝트의 브랜드 자산과 사용 지침 |
